@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalkhandate19
-- 👀 I’m interested in Third Year
+- 👀 I’m interested in Web, Blockchain, Ethical Hacking...
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me vishal.khandate19@vit.edu
