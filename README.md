@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishalkhandate19
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me at vishal.khandate19@vit.edu
 
